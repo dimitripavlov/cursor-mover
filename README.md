@@ -47,7 +47,7 @@ cargo run
 
 ### Example Output
 
-```bash
+```
 Enter the number of minutes for moving the cursor:
 5
 Screen size: 1920x1080. Moving the cursor every 60 seconds for 5 minutes.
